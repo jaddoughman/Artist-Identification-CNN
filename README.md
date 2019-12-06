@@ -1,4 +1,4 @@
-# Artist Identification From Paintings Using Convolutional Neural Network (CNN
+# Artist Identification From Paintings Using Convolutional Neural Network (CNN)
 
 ## Introduction
 
